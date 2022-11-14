@@ -1,0 +1,6 @@
+com\restapi\mysql\crud\example\SpringBootRestApiMySQLApplication$1.class
+com\restapi\mysql\crud\example\service\CourseService.class
+com\restapi\mysql\crud\example\SpringBootRestApiMySQLApplication.class
+com\restapi\mysql\crud\example\controller\CourseController.class
+com\restapi\mysql\crud\example\repository\CourseRepository.class
+com\restapi\mysql\crud\example\entity\Course.class
